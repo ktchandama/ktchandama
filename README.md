@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @ktchandama
-- 👀 I’m interested in ...
-- 
-- 💞️ I’m looking to collaborate on ...
-- 
-
 ## 👋 Hi, I’m Kodjo Tchandama [[Website]](https://ktchandama.github.io/)
 
 🔭 I am Data Scientist at [Data Science Togo](https://www.datasciencetogo.org).<br>
@@ -22,6 +16,8 @@
 <p>
   <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
   
+  <img src="https://img.shields.io/badge/Excel-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
+  <img src="https://img.shields.io/badge/SQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
   <img src="https://img.shields.io/badge/R-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
   <img src="https://img.shields.io/badge/Tensorflow-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
   <img src="https://img.shields.io/badge/Scikit-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
