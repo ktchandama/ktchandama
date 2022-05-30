@@ -6,10 +6,13 @@
 📔 I'm MITx Statistics and Data Science [MicroMasters Credential](https://micromasters.mit.edu/letter/program/3658b48e-ad65-48eb-bf6c-1d1edaa3e103) holder<br>
 
 Other Certifications:
-[Google Data Analytics Professional Certificate](https://www.credly.com/badges/dbe56a1a-a4da-4ee8-b617-335094f4691d?source=linked_in_profile) <br>
-[Microsoft Certified Data Analyst Associate](https://www.credly.com/badges/05331e95-5ed6-44eb-bb22-c0a71720f45d?source=linked_in_profile)
-[Microsoft Certified Azure AI Fundamentals](https://www.credly.com/badges/1da5c17a-412b-4e9d-8a97-343bd0a49f54/public_url)
-[WQU's Applied Data Science II certificate](https://www.credly.com/badges/08176999-6830-4aab-ba11-b879320ffc05?source=linked_in_profile)
+> [Google Data Analytics Professional Certificate](https://www.credly.com/badges/dbe56a1a-a4da-4ee8-b617-335094f4691d?source=linked_in_profile) <br>
+>
+> [Microsoft Certified Data Analyst Associate](https://www.credly.com/badges/05331e95-5ed6-44eb-bb22-c0a71720f45d?source=linked_in_profile)
+>
+> [Microsoft Certified Azure AI Fundamentals](https://www.credly.com/badges/1da5c17a-412b-4e9d-8a97-343bd0a49f54/public_url)
+>
+> [WQU's Applied Data Science II certificate](https://www.credly.com/badges/08176999-6830-4aab-ba11-b879320ffc05?source=linked_in_profile)
 
 🌱 I’m currently learning MLOps and DevOps<br>
 
