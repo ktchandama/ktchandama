@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Kodjo Tchandama [[Website]](https://ktchandama.github.io/)
 
 🔭 I am Data Scientist at [Data Science Togo](https://www.datasciencetogo.org).<br>
-🔭 I am also a Mentor an Project & Reviewer at [Udacity](https://www.udacity.com).<br>
+🔭 I am also a Mentor & Project Reviewer at [Udacity](https://www.udacity.com).<br>
 
 📔 I'm studying Financial engineering at [WorldQuant University](https://wqu.edu)<br>
 
@@ -16,7 +16,7 @@ Other Certifications:
 >
 > [WQU's Applied Data Science II certificate](https://www.credly.com/badges/08176999-6830-4aab-ba11-b879320ffc05?source=linked_in_profile)
 
-🌱 I’m currently learning MLOps and DevOps<br>
+🌱 I’m currently learning Cloud Computing<br>
 
 📫 How to reach me : Write to <b>ktchandama@gmail.com</b><br>
 
