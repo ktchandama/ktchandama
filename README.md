@@ -19,7 +19,7 @@ Other Certifications:
 >
 > [WQU's Applied Data Science II certificate](https://www.credly.com/badges/08176999-6830-4aab-ba11-b879320ffc05?source=linked_in_profile)
 
-🌱 I’m currently learning Cloud Computing<br>
+🌱 I’m currently learning advanced financial modelling.<br>
 
 📫 How to reach me : Write to <b>ktchandama@gmail.com</b><br>
 
