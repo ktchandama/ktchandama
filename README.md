@@ -6,7 +6,7 @@
 
 📔 I'm studying Financial engineering at [WorldQuant University](https://wqu.edu)<br>
 
-📔 I'm a [Google Africa Developer Scholarship fellow]([https://wqu.edu](https://adscerts.com/scholar/E18A01862D39BC6))<br>
+📔 I'm a [Google Africa Developer Scholarship fellow](https://adscerts.com/scholar/E18A01862D39BC6)<br>
 
 📔 I'm MITx Statistics and Data Science [MicroMasters Credential](https://micromasters.mit.edu/letter/program/3658b48e-ad65-48eb-bf6c-1d1edaa3e103) holder<br>
 
