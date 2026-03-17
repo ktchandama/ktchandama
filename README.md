@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Kodjo Tchandama
+# 👋 Hi, I’m Kodjo Lucien Tchandama
 
 ### Aspiring IT Professional | Data Enthusiast | Problem Solver | Frealance VBA Developer
 
@@ -6,9 +6,9 @@ I am an analytical thinker from Togo with a passion for IT, especially process a
 
 I am characterized by a high level of personal initiative, as demonstrated by the various certifications I have earned independently. I look forward to bringing this strong willingness to learn and proactive mindset to an apprenticeship as an IT Specialist.
 
-📔 I've worked on a lot of EXcel and VBA projects, but my favorite [ImpositionDOFK]. I've pinned others here for you to explore.
+📔 I've worked on many Excel and VBA projects, but my favorite is [ImpositionDOFK](https://github.com/ktchandama/ImpositionDOFK).
 
-📔 I'm a [Google Africa Developer Scholarship fellow]<br>
+📔 I've also worked on a couple of computer networking projects using Cisco Packet Tracer, and my favorite is [Enterprise Network Topology Design - Cisco Packet Tracer](https://github.com/ktchandama/Enterprise-Network-Design-Multi-Site-Architecture)
 
 📔 I'm MITx Statistics and Data Science [MicroMasters Credential](https://micromasters.mit.edu/letter/program/3658b48e-ad65-48eb-bf6c-1d1edaa3e103) holder<br>
 
@@ -22,10 +22,8 @@ Other Certifications:
 > [Microsoft Certified Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/ktchandama/credentials/fb29a4e3dff90da1)
 >
 > [Microsoft Certified Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/ktchandama/credentials/976B49B85C48F3A8)
->
-> [WQU's Applied Data Science II certificate](https://www.credly.com/badges/08176999-6830-4aab-ba11-b879320ffc05?source=linked_in_profile)
 
-🌱 I’m currently learning Java Programming.<br>
+🌱 I’m currently learning new things including Cloud Computing (AWS and Google Cloud).<br>
 
 📫 Want to work with me? : Write to <b>ktchandama@gmail.com</b> or <b>+22891002860</b><br>
 
