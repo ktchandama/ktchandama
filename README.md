@@ -10,9 +10,7 @@ I am characterized by a high level of personal initiative, as demonstrated by th
 
 📔 I've also worked on a couple of computer networking projects using Cisco Packet Tracer, and my favorite is [Enterprise Network Topology Design - Cisco Packet Tracer](https://github.com/ktchandama/Enterprise-Network-Design-Multi-Site-Architecture)
 
-📔 I'm MITx Statistics and Data Science [MicroMasters Credential](https://micromasters.mit.edu/letter/program/3658b48e-ad65-48eb-bf6c-1d1edaa3e103) holder<br>
-
-Other Certifications:
+My Certifications:
 > [Google IT Support Professional Certificate](https://www.credly.com/badges/4cab0f38-5859-43c9-b73a-6b9920e984ab)<br>
 >
 > [Google Data Analytics Professional Certificate](https://www.credly.com/badges/dbe56a1a-a4da-4ee8-b617-335094f4691d?source=linked_in_profile) <br>
